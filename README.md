@@ -1,2 +1,2 @@
 # Enterprise-Pro
-Enterprise Pro project for uni
+Repo for Enterprise Pro project (project TBC)
