@@ -16,8 +16,6 @@ compare the data from met office from clients data
 one graph for one major attribute from met office and then from client to see the difference.
 build with customers, developers, broadcasters in mind.
 
-Client's Email: mali70@bradford.ac.uk
-
 1. Necessary data will always be available.
 2. can be desktop app. website. Python preferred.
 
